@@ -1,0 +1,87 @@
+*{
+    padding: 0%;
+    margin: 0%;
+}
+img{
+    position: absolute;
+    width: 230px;
+    top: -47px;
+    left: 100px;
+}
+h6{
+    position: absolute;
+    color: white;
+    top: 32px;
+    left: 146px;
+    letter-spacing: 4px;
+    font-family: "Bebas Neue", sans-serif;
+}
+h2{
+    position: absolute;
+    color: white;
+    font-family: "Kanit", sans-serif;
+    top: 2px;
+    left: 75px;
+}
+#title{
+    position: absolute;
+    width: 280px;
+    left: 75px;
+    border: solid white 2px;
+    border-radius: 8px;
+    top: 40px;
+}
+h5{
+    position: absolute;
+    color: white;
+    font-family: "Bebas Neue", sans-serif;
+    letter-spacing: 2px;
+    left: 85px;
+    top: 210px;
+}
+
+
+h3{
+    position: relative;
+    color: red;
+    top: 10px;
+    left: 30px;
+    font-family: "Bebas Neue", sans-serif;
+    letter-spacing: 2px;
+    display: inline-block;
+}
+#ep{
+    position: relative;
+    display: inline-block;
+    color: aqua;
+    top: 15px;
+    left: 50px;
+    font-size: 18px;
+    word-spacing: 3px;
+    margin-bottom: 25px;
+    font-family: "Kanit", sans-serif;
+}
+a{
+    text-decoration: none;
+}
+#end{
+    position: relative;
+    color: red;
+    top: 10px;
+    left: 130px;
+    font-family: "Bebas Neue", sans-serif;
+    font-size: 30px;
+    letter-spacing: 2px;
+    display: inline-block;
+}
+#endcard{
+    position: relative;
+    color: white;
+    top: 8px;
+    left: 130px;
+    letter-spacing: 4px;
+    font-family: "Bebas Neue", sans-serif;
+    padding-bottom: 50px;
+    display: inline-block;
+}
+
